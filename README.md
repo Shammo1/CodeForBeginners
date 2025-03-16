@@ -3,25 +3,22 @@
 Welcome to the world of competitive programming! This repository is designed to help beginners learn and practice competitive programming step by step. Whether you're new to programming or just new to competitive programming, this guide will help you build a strong foundation.
 
 ## Table of Contents
-1. [Getting Started](#getting-started)
-2. [Step 1: Learn the Basics of a Programming Language](#step-1-learn-the-basics-of-a-programming-language)
-3. [Step 2: Understand Basic Data Structures](#step-2-understand-basic-data-structures)
-4. [Step 3: Learn Basic Algorithms](#step-3-learn-basic-algorithms)
-5. [Step 4: Practice Problem-Solving](#step-4-practice-problem-solving)
+1. [Step 1: Learn the Basics of a Programming Language](#step-1-learn-the-basics-of-a-programming-language)
+2. [Step 2: Understand Basic Data Structures](#step-2-understand-basic-data-structures)
+3. [Step 3: Learn Basic Algorithms](#step-3-learn-basic-algorithms)
+4. [Step 4: Practice Problem-Solving](#step-4-practice-problem-solving)
 ## Getting Started
 
-Before diving into competitive programming, you need to have a basic understanding of programming concepts and a programming language. If you're completely new to programming, start with learning the basics of a language like Python, C++, or Java.
-
+Before diving into competitive programming, you need to have a basic understanding of programming concepts and a programming language.We will learn all of this with c,c++.
 ## Step 1: Learn the Basics of a Programming Language
 
-- **Choose a Language**: Popular choices for competitive programming are C++, Java, and Python.
+ Popular choices for competitive programming is C++.Because when it comes for CP c++ if faster then any other language.
 - **Learn Syntax**: Understand the basic syntax, data types, loops, conditionals, and functions.
 - **Practice**: Solve simple problems to get comfortable with the language.
 
 ### Recommended Resources:
-- [C++ Tutorial](https://www.learncpp.com/)
-- [Java Tutorial](https://www.w3schools.com/java/)
-- [Python Tutorial](https://www.learnpython.org/)
+- [C++ Tutorial](https://youtu.be/EAR7De6Goz4?si=Oe8f6ZfL_iwB00Q3)
+- [Basic C++ problem sheet](https://codeforces.com/group/MWSDmqGsZm/contest/219158)
 
 ## Step 2: Understand Basic Data Structures
 
@@ -32,7 +29,6 @@ Data structures are the building blocks of competitive programming. Start with t
 - **Linked Lists**
 - **Stacks**
 - **Queues**
-- **Hash Tables**
 
 ### Recommended Resources:
 - [GeeksforGeeks Data Structures](https://www.geeksforgeeks.org/data-structures/)
